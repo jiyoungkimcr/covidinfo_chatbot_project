@@ -81,8 +81,8 @@ class Crawler:
 ######## Code - Telegram part ########
 ######################################
 
-token = "1743843452:AAF8fd99PD6ZlWArtPMOSMyuCsiGKXI2gnc"
-id = "1871793518"
+token = "here, input your chatbot api token key you got from botfather(telegram)"
+id = "input your chat_id"
 
 bot = telegram.Bot(token)
 info_message = '''- To check the number of New Cases(today) : Please input "case" or "number"
