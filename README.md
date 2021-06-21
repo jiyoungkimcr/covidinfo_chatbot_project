@@ -12,6 +12,7 @@ I created 3 types of crawler mainly using beautifulsoup:<br />
 - Crawler for the number of today's new covid case (in South Korea)<br />
 - Crawler for the recent news related to South Korea Covid<br />
 - Crawler for realted images with keyword 'how to fight covid'<br />
+
 And then, I created handler that contains the response messages of chatbot based on user's input. 
 
 
