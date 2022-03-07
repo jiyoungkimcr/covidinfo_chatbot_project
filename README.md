@@ -1,6 +1,6 @@
-# Covidinfo_chatbot_project
+# Covidinfo_chatbot_project 🦠
 
-This is a project for creating a telegram chatbot offering the real-time COVID Information to the users.<br />
+This is a project for creating a telegram chatbot offering the real-time COVID Information🦠 to the users.<br />
 In this version, the information is only confined to 'South Korea COVID' related info.<br /> 
 There are 3 things you can get by talking to this chatbot as below:<br />
 1) Today's new COVID case in South Korea<br />
