@@ -18,10 +18,12 @@ And then, I created handler that contains the response messages of chatbot based
 
 
 **Test video - Chatbot mobile version**
+https://user-images.githubusercontent.com/53321802/157106147-750aab08-91a7-4546-b2c5-55fa08c1b9ea.MP4
 
 ![Test video - Chatbot mobile version](https://user-images.githubusercontent.com/53321802/157106147-750aab08-91a7-4546-b2c5-55fa08c1b9ea.MP4)
 
 **Test video - Chatbot PC version**
+https://user-images.githubusercontent.com/53321802/157106157-afd46d4a-d04d-4431-aa01-38bf280b4304.mov
 
 ![Test video - Chatbot PC version](https://user-images.githubusercontent.com/53321802/157106157-afd46d4a-d04d-4431-aa01-38bf280b4304.mov)
 
